@@ -1,0 +1,49 @@
+
+body {
+	
+}
+div{
+	color: blue;
+}
+#satauri { font-size: 40px;
+	color: #EA34B6;
+	text-align: center;
+
+
+}
+
+#addsatauri {
+	
+	color: #F42A85;
+	letter-spacing: 10px;
+	font-family: "Bright Larch PERSONAL USE ONLY", graduate;
+
+
+}
+.qvesatauri {
+	color: plum;
+	text-align: center;
+	font-size: 25px;
+
+}
+
+.logo { 
+	font-size: 70px;
+text-align: center;
+color: #8A1966;
+}
+.statia
+{ background-color: #f1faee;
+	color: black;
+	font-size: 15px;
+	text-align: justify;
+	width: 60%; 
+	padding: 20px;
+
+}
+.title {
+	font-family: "BPG Banner Caps", Calibri;
+	font-size: 25px;
+	letter-spacing: 8px;
+	text-align: center;
+}
